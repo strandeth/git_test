@@ -1,0 +1,1 @@
+This is Strandeth's first git project!
